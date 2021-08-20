@@ -162,7 +162,7 @@
 
     // Load model
      $("document").ready (async function() {
-        model = await tf.loadLayersModel('http://127.0.0.1:5000/static/tfjs_model/model.json');
+        model = await tf.loadLayersModel('https://simpleclassification.herokuapp.com/static/tfjs_model/model.json');
         console.log('Load model');
         console.log(model.summary());
     });
