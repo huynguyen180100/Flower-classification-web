@@ -3,7 +3,7 @@
 **Set up**
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 **Run app for WindowsOS**
