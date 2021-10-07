@@ -20,3 +20,6 @@ python -m flask run
 
 #### Thử với một ảnh khác nữa
 ![alt text](https://github.com/huynguyen180100/Flower-classification-web/blob/master/Result/daisy.png)
+
+## Tham khảo
+- https://www.youtube.com/watch?v=nAwW11yMjpQ&ab_channel=M%C3%ACAI
